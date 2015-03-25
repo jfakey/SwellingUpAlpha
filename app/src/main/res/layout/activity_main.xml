@@ -1,0 +1,160 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	    xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true" >
+
+<RelativeLayout
+    style="@style/container"
+    tools:context="com.jfakey.swellingup.MainActivity" >
+
+    <TextView
+        android:id="@+id/mainHeading"
+        style="@style/header"
+        android:text="@string/mainHeading" />
+
+    <TextView
+        android:id="@+id/subHeadingOne"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mainHeading"
+        android:layout_centerHorizontal="true"
+        android:text="@string/subHeadingOne"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/w1butt"
+        style="@style/button"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/subHeadingTwo"
+        android:text="@string/w1butt"
+        android:onClick="openWeek1" />
+
+    <TextView
+        android:id="@+id/subHeadingTwo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/subHeadingOne"
+        android:layout_centerHorizontal="true"
+        android:text="@string/subHeadingTwo"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/helpButt"
+        style="@style/button"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:onClick="helpButt"
+        android:text="@string/helpButt" />
+
+    <Button
+        android:id="@+id/w2butt"
+        style="@style/button"
+        android:layout_marginTop="3dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/w1butt"
+        android:onClick="openWeek2"
+        android:text="@string/w2butt" />
+
+    <Button
+        android:id="@+id/w3butt"
+        style="@style/button"
+        android:layout_marginTop="3dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/w2butt"
+        android:onClick="openWeek3"
+        android:text="@string/w3butt" />
+
+    <Button
+        android:id="@+id/week4butt"
+        style="@style/button"
+        android:layout_marginTop="3dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/w3butt"
+        android:onClick="openWeek4"
+        android:text="@string/w4butt" />
+
+    <Button
+        android:id="@+id/w5butt"
+        style="@style/button"
+        android:layout_marginTop="3dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/week4butt"
+        android:onClick="openWeek5"
+        android:text="@string/w5butt" />
+
+    <Button
+        android:id="@+id/w6butt"
+        style="@style/button"
+        android:layout_marginTop="3dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/w5butt"
+        android:onClick="openWeek6"
+        android:text="@string/w6butt" />
+
+    <Button
+        android:id="@+id/w7butt"
+        style="@style/button"
+        android:layout_marginTop="3dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/subHeadingTwo"
+        android:onClick="openWeek7"
+        android:text="@string/w7butt" />
+
+    <Button
+        android:id="@+id/w8butt"
+        style="@style/button"
+        android:layout_marginTop="3dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/w7butt"
+        android:onClick="openWeek8"
+        android:text="@string/w8butt" />
+
+    <Button
+        android:id="@+id/w9butt"
+        style="@style/button"
+        android:layout_marginTop="3dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/w8butt"
+        android:onClick="openWeek9"
+        android:text="@string/w9butt" />
+
+    <Button
+        android:id="@+id/w10butt"
+        style="@style/button"
+        android:layout_marginTop="3dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/w9butt"
+        android:onClick="openWeek10"
+        android:text="@string/w10butt" />
+
+    <Button
+        android:id="@+id/w11butt"
+        style="@style/button"
+        android:layout_marginTop="3dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/w10butt"
+        android:onClick="openWeek11"
+        android:text="@string/w11butt" />
+
+    <Button
+        android:id="@+id/w12butt"
+        style="@style/button"
+        android:layout_marginTop="3dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/w11butt"
+        android:onClick="openWeek12"
+        android:text="@string/w12butt" />
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/button"
+        android:layout_marginTop="3dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="@string/dataButt"
+        android:onClick="openData" />
+
+</RelativeLayout>
+</ScrollView>

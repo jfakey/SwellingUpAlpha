@@ -1,0 +1,89 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	    xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true" >
+
+<RelativeLayout
+    style="@style/container"
+    tools:context="com.jfakey.swellingup.Core" >
+
+    <TextView
+        android:id="@+id/textView1"
+		style="@style/header"
+        android:layout_centerHorizontal="true"
+        android:text="@string/coreHead" />
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/medium"
+        android:layout_below="@+id/textView1"
+        android:text="@string/crunches" />
+
+    <TextView
+        android:id="@+id/textView3"
+        style="@style/medium"
+        android:layout_below="@+id/textView2"
+        android:text="@string/rtwist" />
+
+    <TextView
+        android:id="@+id/textView4"
+        style="@style/medium"
+        android:layout_below="@+id/textView3"
+        android:text="@string/hu" />
+
+    <TextView
+        android:id="@+id/textView5"
+        style="@style/medium"
+        android:layout_below="@+id/textView4"
+        android:text="@string/cti" />
+
+    <TextView
+        android:id="@+id/textView6"
+        style="@style/medium"
+        android:layout_below="@+id/textView5"
+        android:text="@string/cobra" />
+
+    <TextView
+        android:id="@+id/textView7"
+        style="@style/medium"
+        android:layout_below="@+id/textView6"
+        android:text="@string/kc" />
+
+    <TextView
+        android:id="@+id/textView8"
+        style="@style/medium"
+        android:layout_below="@+id/textView7"
+        android:text="@string/oape" />
+
+    <TextView
+        android:id="@+id/textView9"
+        style="@style/medium"
+        android:layout_below="@+id/textView8"
+        android:text="@string/ww" />
+
+    <TextView
+        android:id="@+id/textView10"
+        style="@style/medium"
+        android:layout_below="@+id/textView9"
+        android:text="@string/bic" />
+
+    <TextView
+        android:id="@+id/textView11"
+        style="@style/medium"
+        android:layout_below="@+id/textView10"
+        android:text="@string/onemintwosets" />
+		
+	<Button
+		android:id="@+id/finish"
+		style="@style/finishButton"
+        android:text="@string/finish"
+		android:onClick="finishPrompt"
+        android:layout_below="@+id/textView11"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="21dp" />
+
+</RelativeLayout>
+</ScrollView>

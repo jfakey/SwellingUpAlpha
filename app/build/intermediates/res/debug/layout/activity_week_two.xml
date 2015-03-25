@@ -1,0 +1,80 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	    xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true" >
+
+<RelativeLayout 
+    style="@style/container"
+    tools:context="com.jfakey.swellingup.WeekTwo" >
+
+    <TextView
+        android:id="@+id/w1Head"
+        style="@style/header"
+        android:text="@string/w2Head"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/button"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/w1Head"
+        android:layout_marginTop="24dp"
+        android:text="@string/d8"
+        android:onClick="day8Open" />
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/button"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/button1"
+        android:layout_marginTop="60dp"
+        android:text="@string/d9"
+        android:onClick="day9Open" />
+
+    <Button
+        android:id="@+id/button3"
+        style="@style/button"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/button2"
+        android:layout_marginTop="60dp"
+        android:text="@string/d10"
+        android:onClick="day10Open" />
+
+    <Button
+        android:id="@+id/button4"
+        style="@style/button"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/button1"
+        android:text="@string/d11"
+        android:onClick="day11Open" />
+
+    <Button
+        android:id="@+id/button5"
+        style="@style/button"
+        android:layout_alignBaseline="@+id/button2"
+        android:layout_alignBottom="@+id/button2"
+        android:layout_alignParentRight="true"
+        android:text="@string/d12"
+        android:onClick="day12Open" />
+
+    <Button
+        android:id="@+id/button6"
+        style="@style/button"
+        android:layout_alignBottom="@+id/button3"
+        android:layout_alignParentRight="true"
+        android:text="@string/d13"
+        android:onClick="day13Open" />
+
+    <Button
+        android:id="@+id/button7"
+        style="@style/button"
+        android:layout_below="@+id/button3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:text="@string/d14"
+        android:onClick="day14Open" />
+
+</RelativeLayout>
+</ScrollView><!-- From: file:/C:/Users/JamesAk/MobileWorkspace/finalProjectFinal-master/app/src/main/res/layout/activity_week_two.xml -->

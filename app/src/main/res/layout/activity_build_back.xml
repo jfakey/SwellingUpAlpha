@@ -1,0 +1,239 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	    xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true" >
+
+<RelativeLayout
+    android:id="@+id/container"
+    style="@style/container"
+    tools:context="com.jfakey.swellingup.BuildBack" >
+
+    <TextView
+        android:id="@+id/bdBackHead"
+        style="@style/header"
+        android:text="@string/bdBackHead" />
+
+    <TextView
+        android:id="@+id/textView1"
+        style="@style/medium"
+        android:layout_below="@+id/bdBackHead"
+        android:text="@string/dS"/>
+ 
+    <TextView
+        android:id="@+id/clickabletextView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:text="@string/Deadlift"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+ 
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/clickabletextView2"
+        android:text="@string/regDS"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView4"
+        style="@style/medium"
+        android:layout_below="@+id/textView3"
+        android:text="@string/dS"/>
+
+    <TextView
+        android:id="@+id/clickabletextView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView4"
+        android:text="@string/dbpopu"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/clickabletextView5"
+        android:text="@string/regDS"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView6"
+        android:text="@string/tententen"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView8"
+        style="@style/medium"
+        android:layout_below="@+id/textView7"
+        android:text="@string/giantS"/>
+
+    <TextView
+        android:id="@+id/clickabletextView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView8"
+        android:text="@string/GorOACRF"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/clickabletextView9"
+        android:text="@string/fte"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView10"
+        android:text="@string/fte"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView11"
+        android:text="@string/fte"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView13"
+        style="@style/medium"
+        android:layout_below="@+id/textView12"
+        android:text="@string/dS" />
+
+    <TextView
+        android:id="@+id/clickabletextView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView13"
+        android:text="@string/sBCOOTH"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/clickabletextView14"
+        android:text="@string/regDS"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView15"
+        android:text="@string/regDS"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView17"
+        style="@style/medium"
+        android:layout_below="@+id/textView16"
+        android:text="@string/dS" />
+    
+    <TextView
+        android:id="@+id/clickabletextView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView17"
+        android:text="@string/bc"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/clickabletextView18"
+        android:text="@string/regDS"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+	<Button
+		android:id="@+id/finish"
+		style="@style/finishButton"
+        android:text="@string/finish"
+		android:onClick="finishPrompt"
+        android:layout_marginTop="21dp"
+        android:layout_below="@+id/textView19"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        style="@style/finishButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/activityCompeleted"
+        android:id="@+id/ds1ci"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="ds1Prompt"/>
+
+    <Button
+        style="@style/finishButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/activityCompeleted"
+        android:id="@+id/ds2ci"
+        android:layout_alignBottom="@+id/textView7"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="ds2Prompt"/>
+
+    <Button
+        style="@style/finishButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/activityCompeleted"
+        android:id="@+id/gs1ci"
+        android:layout_above="@+id/textView13"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="gs1Prompt"/>
+
+    <Button
+        style="@style/finishButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/activityCompeleted"
+        android:id="@+id/ds3ci"
+        android:layout_above="@+id/textView17"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="ds3Prompt"/>
+
+    <Button
+        style="@style/finishButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/activityCompeleted"
+        android:id="@+id/ds4ci"
+        android:layout_alignBottom="@+id/textView19"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="ds4Prompt"/>
+
+</RelativeLayout>
+</ScrollView>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SwellingUp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mainHeading">Welcome!</string>
+    <string name="subHeadingOne">What week are you on?</string>
+    <string name="subHeadingTwo">Click history to check</string>
+    <string name="w1butt">Week 1</string>
+    <string name="w2butt">Week 2</string>
+    <string name="w3butt">Week 3</string>
+    <string name="w4butt">Week 4</string>
+    <string name="w5butt">Week 5</string>
+    <string name="w6butt">Week 6</string>
+    <string name="w7butt">Week 7</string>
+    <string name="w8butt">Week 8</string>
+    <string name="w9butt">Week 9</string>
+    <string name="w10butt">Week 10</string>
+    <string name="w11butt">Week 11</string>
+    <string name="w12butt">Week 12</string>
+    <string name="helpButt">Help</string>
+    <string name="title_activity_week_one">Week One</string>
+    <string name="title_activity_week_two">Week Two</string>
+    <string name="title_activity_week_three">Week Three</string>
+    <string name="title_activity_week_four">Week Four</string>
+    <string name="title_activity_week_five">Week Five</string>
+    <string name="title_activity_week_six">Week Six</string>
+    <string name="title_activity_week_seven">Week Seven</string>
+    <string name="title_activity_week_eight">Week Eight</string>
+    <string name="title_activity_week_nine">Week Nine</string>
+    <string name="title_activity_week_ten">Week Ten</string>
+    <string name="title_activity_week_eleven">Week Eleven</string>
+    <string name="title_activity_week_twelve">Week Twelve</string>
+    <string name="title_activity_help_butt">Help</string>
+    <string name="w1Head">Week One</string>
+    <string name="w2Head">Week Two</string>
+    <string name="w3Head">Week Three</string>
+    <string name="w4Head">Week Four</string>
+    <string name="w5Head">Week Five</string>
+    <string name="w6Head">Week Six</string>
+    <string name="w7Head">Week Seven</string>
+    <string name="w8Head">Week Eight</string>
+    <string name="w9Head">Week Nine</string>
+    <string name="w10Head">Week Ten</string>
+    <string name="w11Head">Week Eleven</string>
+    <string name="w12Head">Week Twelve</string>
+    <string name="d1">Day 1</string>
+    <string name="d2">Day 2</string>
+    <string name="d3">Day 3</string>
+    <string name="d4">Day 4</string>
+    <string name="d5">Day 5</string>
+    <string name="d6">Day 6</string>
+    <string name="d7">Day 7</string>
+    <string name="d8">Day 8</string>
+    <string name="d9">Day 9</string>
+    <string name="d10">Day 10</string>
+    <string name="d11">Day 11</string>
+    <string name="d12">Day 12</string>
+    <string name="d13">Day 13</string>
+    <string name="d14">Day 14</string>
+    <string name="d15">Day 15</string>
+    <string name="d16">Day 16</string>
+    <string name="d17">Day 17</string>
+    <string name="d18">Day 18</string>
+    <string name="d19">Day 19</string>
+    <string name="d20">Day 20</string>
+    <string name="d21">Day 21</string>
+    <string name="d22">Day 22</string>
+    <string name="d23">Day 23</string>
+    <string name="d24">Day 24</string>
+    <string name="d25">Day 25</string>
+    <string name="d26">Day 26</string>
+    <string name="d27">Day 27</string>
+    <string name="d28">Day 28</string>
+    <string name="d29">Day 29</string>
+    <string name="d30">Day 30</string>
+    <string name="d31">Day 31</string>
+    <string name="d32">Day 32</string>
+    <string name="d33">Day 33</string>
+    <string name="d34">Day 34</string>
+    <string name="d35">Day 35</string>
+    <string name="d36">Day 36</string>
+    <string name="d37">Day 37</string>
+    <string name="d38">Day 38</string>
+    <string name="d39">Day 39</string>
+    <string name="d40">Day 40</string>
+    <string name="d41">Day 41</string>
+    <string name="d42">Day 42</string>
+    <string name="d43">Day 43</string>
+    <string name="d44">Day 44</string>
+    <string name="d45">Day 45</string>
+    <string name="d46">Day 46</string>
+    <string name="d47">Day 47</string>
+    <string name="d48">Day 48</string>
+    <string name="d49">Day 49</string>
+    <string name="d50">Day 50</string>
+    <string name="d51">Day 51</string>
+    <string name="d52">Day 52</string>
+    <string name="d53">Day 53</string>
+    <string name="d54">Day 54</string>
+    <string name="d55">Day 55</string>
+    <string name="d56">Day 56</string>
+    <string name="d57">Day 57</string>
+    <string name="d58">Day 58</string>
+    <string name="d59">Day 59</string>
+    <string name="d60">Day 60</string>
+    <string name="d61">Day 61</string>
+    <string name="d62">Day 62</string>
+    <string name="d63">Day 63</string>
+    <string name="d64">Day 64</string>
+    <string name="d65">Day 65</string>
+    <string name="d66">Day 66</string>
+    <string name="d67">Day 67</string>
+    <string name="d68">Day 68</string>
+    <string name="d69">Day 69</string>
+    <string name="d70">Day 70</string>
+    <string name="d71">Day 71</string>
+    <string name="d72">Day 72</string>
+    <string name="d73">Day 73</string>
+    <string name="d74">Day 74</string>
+    <string name="d75">Day 75</string>
+    <string name="d76">Day 76</string>
+    <string name="d77">Day 77</string>
+    <string name="d78">Day 78</string>
+    <string name="d79">Day 79</string>
+    <string name="d80">Day 80</string>
+    <string name="d81">Day 81</string>
+    <string name="d82">Day 82</string>
+    <string name="d83">Day 83</string>
+    <string name="d84">Day 84</string>
+    <string name="title_activity_build_chest">Build Chest</string>
+    <string name="title_activity_build_legs">Build Legs</string>
+    <string name="title_activity_build_back">Build Back</string>
+    <string name="title_activity_core">Core</string>
+    <string name="title_activity_build_shoulders">Build Shoulders</string>
+    <string name="title_activity_rest">Rest</string>
+    <string name="title_activity_bulk_chest">Bulk Chest</string>
+    <string name="title_activity_bulk_legs">Bulk Legs</string>
+    <string name="title_activity_bulk_arms">Bulk Arms</string>
+    <string name="title_activity_bulk_back">Bulk Back</string>
+    <string name="title_activity_bulk_shoulders">Bulk Shoulders</string>
+    <string name="bdBackHead">Build Back/Biceps</string>
+    <string name="dS">Drop Set</string>
+    <string name="Deadlift"><a href="https://www.youtube.com/watch?v=0J6nVBwGUP4">Deadlift</a></string>
+
+    <!--
+	<string name="Deadlift">&lt;a href="http://www.youtube.com/watch?v=0J6nVBwGUP4"&gt;>Deadlift&lt;/a&gt;</string>
+	<string name="Deadlift">&lt;a href="http://www.youtube.com/watch?v=0J6nVBwGUP4"&gt;Deadlift&lt;/a&gt;</string>
+
+    -->
+
+    <string name="regDS">15 --- 12 --- 8 --- 8</string>
+    <string name="dbpopu"><a href="https://www.youtube.com/watch?v=I1iizuTNl2k">Dumbell Pull-Over</a>, Pull-Ups</string>
+    <string name="tententen">10 --- 10 --- 10</string>
+    <string name="giantS">Giant Set</string>
+    <string name="GorOACRF"><a href="https://www.youtube.com/watch?v=kNsZ3zSAFqA">Bar Row,</a> <a href="https://www.youtube.com/watch?v=ej9XLPN3mPo">One-Arm Curls,</a><a href="https://www.youtube.com/watch?v=T1U3yZne1jw"> Reverse Fly</a></string>
+    <string name="fte">15 --- 12 --- 8</string>
+    <string name="sBCOOTH"><a href="https://www.youtube.com/watch?v=edvtrXAwLvw">Seated Curls</a>, <a href="https://www.youtube.com/watch?v=FYUZKhIt-bw">112 Hammers</a></string>
+    <string name="bc"><a href="https://www.youtube.com/watch?v=DCQaC2FIi5Y">Bar Curl</a></string>
+    <string name="bdCTHead">Build Chest/Triceps</string>
+    <string name="cp"><a href="https://www.youtube.com/watch?v=p4JEgxsM9Eg">Chest Press</a></string>
+    <string name="ifip"><a href="https://www.youtube.com/watch?v=vE9KK77nddw">Incline Fly</a>, <a href="https://www.youtube.com/watch?v=WxWlCfZUt6w">Incline Press</a></string>
+    <string name="cgp"><a href="https://www.youtube.com/watch?v=T-m5wkXJhPU">Close Grip Press</a>, <a href="https://www.youtube.com/watch?v=UBEhFJzdI4Q">Partial Fly</a>, <a href="https://www.youtube.com/watch?v=y2p35SDDDcU">Decline Push-Ups</a></string>
+    <string name="text"><a href="https://www.youtube.com/watch?v=nRiJVZDpdL0">Tricep Extension</a></string>
+    <string name="sakbtpu"><a href="https://www.youtube.com/watch?v=otm90ft1Kl4">Single-Arm Kickback</a>, <a href="https://www.youtube.com/watch?v=hfIQ5V4Tcgo">Tricep Push-Ups"</a></string>
+    <string name="benchdips"><a href="https://www.youtube.com/watch?v=dalRUvXzZ6o">Bench Dips</a></string>
+    <string name="bdLHead">Build Legs</string>
+    <string name="sumos"><a href="https://www.youtube.com/watch?v=9ZuXKqRbT9k">Sumo Squat</a></string>
+    <string name="alsurev"><a href="https://www.youtube.com/watch?v=tTej-ax9XiA">Alternate Lunges</a>, <a href="https://www.youtube.com/watch?v=1s_U9c6pWqg">Step-Up to Reverse Lunges</a></string>
+    <string name="psqbsq"><a href="https://www.youtube.com/watch?v=YyT49PH-_ZA">Parallel Squat</a>, <a href="https://www.youtube.com/watch?v=1CvEs-TOIKM">Bulgarian Squat</a></string>
+    <string name="sldl"><a href="https://www.youtube.com/watch?v=ekJuX0vOMJ4">Straight-Leg Deadlift</a></string>
+    <string name="scrscr"><a href="https://www.youtube.com/watch?v=8Y9oJhOUkW4">Single-Calf Raise</a>, <a href="https://www.youtube.com/watch?v=0RDz1gqXQYQ">Seated Calf Raise</a></string>
+    <string name="coreHead">Core Day</string>
+    <string name="crunches"><a href="https://www.youtube.com/watch?v=Xyd_fa5zoEU">20 Crunches</a></string>
+    <string name="rtwist"><a href="https://www.youtube.com/watch?v=NeAtimSCxsY">20 Russian Twists</a></string>
+    <string name="hu"><a href="https://www.youtube.com/watch?v=g1B6AqrjSsc">20 Hip-Ups</a></string>
+    <string name="cti"><a href="http://media.tumblr.com/02b4f3f126e38d8a10c415a2c7faa9a3/tumblr_inline_mmusuyqC0k1qz4rgp.jpg">20 Crossed Tuck-Ins</a></string>
+    <string name="cobra"><a href="https://www.youtube.com/watch?v=hcTILl3cVkQ">20 Cobras</a></string>
+    <string name="kc"><a href="https://www.youtube.com/watch?v=RlJxOhWT5Ss">10 Knee Crosses</a></string>
+    <string name="oape"><a href="https://www.youtube.com/watch?v=Gj6GSepRPcA">10 One-Arm Plank Extensions</a></string>
+    <string name="ww"><a href="https://www.youtube.com/watch?v=Fuccu9GFO6g">20 Windshield Wipers</a></string>
+    <string name="bic"><a href="https://www.youtube.com/watch?v=YFHwpNAfBTU">Bicycles</a></string>
+    <string name="bdSHead">Build Shoulders</string>
+    <string name="lrur"><a href="https://www.youtube.com/watch?v=kDqklk1ZESo">Lateral Raise</a>, <a href="https://www.youtube.com/watch?v=glv5zQDWrog">Upright Row</a></string>
+    <string name="upootfrrdr"><a href="https://www.youtube.com/watch?v=GdYAvmF8C3Y">Underhand Press</a>, <a href="https://www.youtube.com/watch?v=gzDawZwDC6Y">112 Front Raise,</a> <a href="https://www.youtube.com/watch?v=p1yQnTNE808">Rear Delt Raise</a></string>
+    <string name="sdbsst"><a href="https://www.youtube.com/watch?v=9LNcILnLRZk">Standing Dumbell Shrugs,</a> <a href="https://www.youtube.com/watch?v=j3VUesGVoZI">Scap Trap</a></string>
+    <string name="swsb"><a href="https://www.youtube.com/watch?v=FyCJqiMeopY">Six-Way Shoulder Busters</a></string>
+    <string name="bkCHead">Bulk Chest</string>
+    <string name="cpwr"><a href="https://www.youtube.com/watch?v=hLVJynsWy80">Chest Press with Rotation</a></string>
+    <string name="ip"><a href="https://www.youtube.com/watch?v=j8G9ycoySfA">Incline Press</a></string>
+    <string name="cgptf"><a href="https://www.youtube.com/watch?v=QfACIAWkWZQ">Close-Grip Press to Fly</a></string>
+    <string name="dpu"><a href="https://www.youtube.com/watch?v=y2p35SDDDcU">Decline Push-Ups</a></string>
+    <string name="bkLHead">Bulk Legs</string>
+    <string name="ftbl"><a href="https://www.youtube.com/watch?v=De4fAXtOUkw">Front to Back Lunges</a></string>
+    <string name="squat"><a href="https://www.youtube.com/watch?v=qs3aJP04UM0">Squats</a></string>
+    <string name="sswb"><a href="https://www.youtube.com/watch?v=5TccqAM2ScQ">Split Squat with Bar</a></string>
+    <string name="sldlss"><a href="https://www.youtube.com/watch?v=ekJuX0vOMJ4">Straight-Leg Deadlift</a>, <a href="https://www.youtube.com/watch?v=mRzSLDqP1s8">Side Squats</a></string>
+    <string name="bkAHead">Bulk Arms</string>
+    <string name="scurl"><a href="https://www.youtube.com/watch?v=av7-8igSXTs">Standing Curls</a></string>
+    <string name="wcurl"><a href="https://www.youtube.com/watch?v=w-aamhTaEYY">Wide-Arm Curls</a></string>
+    <string name="scrush"><a href="https://www.youtube.com/watch?v=5EkaD08z7Bo">Skull Crushers</a></string>
+    <string name="hcurl"><a href="https://www.youtube.com/watch?v=i-d_a4mKSTI">Hammer Curls</a></string>
+    <string name="tkb"><a href="https://www.youtube.com/watch?v=ZO81bExngMI">Tricep Kickback</a></string>
+    <string name="bkBHead">Bulk Back</string>
+    <string name="rgr"><a href="https://www.youtube.com/watch?v=DF7hOzm4BW8">Reverse Grip Row</a></string>
+    <string name="oar"><a href="https://www.youtube.com/watch?v=ej9XLPN3mPo">One-Arm Row</a></string>
+    <string name="rf"><a href="https://www.youtube.com/watch?v=T1U3yZne1jw">Reverse Fly</a></string>
+    <string name="bkSHead">Bulk Shoulders</string>
+    <string name="lrrp"><a href="https://www.youtube.com/watch?v=geenhiHju-o">Lateral Raise</a>, <a href="https://www.youtube.com/watch?v=z1uPMgzniMg">Rotate Press</a></string>
+    <string name="urow"><a href="https://www.youtube.com/watch?v=sbKgrwI-dwg">Upright Row</a></string>
+    <string name="ootfrpt"><a http="https://www.youtube.com/watch?v=gzDawZwDC6Y">112 Front Raise</a>, <a href="https://www.youtube.com/watch?v=7sOeQgGUXRk">Plate Twist</a></string>
+    <string name="ts">Timed Set</string>
+    <string name="onemintwosets">1 Minute, 2 Sets</string>
+    <string name="te">12 --- 8</string>
+    <string name="fs">Force Set</string>
+    <string name="fffff">5 --- 5 --- 5 --- 5 --- 5</string>
+    <string name="ps">Progressive Set</string>
+    <string name="etf">8 --- 12 --- 15</string>
+    <string name="tsts">Thirty Seconds, Two Sets</string>
+    <string name="ns">Normal Set</string>
+    <string name="ft">15 --- 12</string>
+    <string name="spress"><a href="https://www.youtube.com/watch?v=seUCEgPsBtc">Shoulder Press</a></string>
+    <string name="tte">12 --- 10 --- 8</string>
+    <string name="restHead">Take the day off, you\'ve earned it</string>
+    <string name="picButt">Rest: View Gallery</string>
+    <string name="restButton">Gallery</string>
+    <string name="imageDesc">Image Selector</string>
+    <string name="helpFSHead">Force Set</string>
+    <string name="helpFS">During a Force set, you will do 5 sets of 5 reps each, for a total of 25 reps.  Although you can rest between each set, it is important to understand that the longer you wait, the less you will be breaking down your muscles.  Ideally, 10 to 20 seconds between each set is plenty of time.  Also, do not set down the weights between sets.  Holding the weights at a down position will help to keep your muscles tense and ready to go, and this will yield the best results.</string>
+    <string name="helpDSHead">Drop Set</string>
+    <string name="helpDS">Drop Sets are a staple in these exercises.  In a drop set, start with a low amount of weight, increasing between each set.  For the final 8 reps, you should drop back down to your initial weight.  For example, if you start with 10s, your second set should be with 15s, and your third with 20s, and then WITHOUT TAKING ANY REST drop back to the 10s for 8 more reps.</string>
+    <string name="helpPSHead">Progressive Set</string>
+    <string name="helpPS">Progressive Sets are tough.  A total of 60 reps, and rest should be short and ideally only between the third and fourth sets.  As with most exercises, start with a low weight, and work your way to high weights by the third set.  After a short rest, no more than 60 seconds, your fourth set should be with the same weight as your third set, and decrease your weights through the fifth and sixth sets.  It is extremely important to start with low weights for progressive sets, as these can really be brutal.</string>
+    <string name="helpGSHead">Giant Set</string>
+    <string name="helpGS">Giant sets can be as difficult to complete as progressive set.  Giant sets include three different exercises, increasing in weight for each set and rotating through the exercises.  Minimal rest should be taken during giant sets.  Again, as with all other exercises, start low with your weights and work your way up.</string>
+    <string name="helpNSHead">Normal Set</string>
+    <string name="helpNS">Normal sets are incredibly simple.  Start with low weight, and work to high weight with decreasing reps each set.  As with all other exercises, minimal rest should be taken between sets.</string>
+    <string name="helpTSHead">Timed Set</string>
+    <string name="helpTS">Timed sets are very straightforward.  Usually two sets of either 30 or 60 second intervals, you should do as many reps as possible during the time.  Feel free to take a short rest between sets.  Most normal sets come at the end of the workout, so incorporating some core exercises helps to keep your heart rate up and your muscles tense, while still allowing you to catch a quick breather.</string>
+    <string name="helpHead">Help and Tips</string>
+    <string name="helpSubHead">Tips and Tricks</string>
+    <string name="helpAbout">Each workout is linked to a Youtube video if you are concerned about proper form, or if you are completely lost on how to do an exercise.  In general, these workouts are based on low weight high reps, and most of these should be completed in 40 to 60 minutes.  Because we are doing low weights, rest should be kept to a minimum.  Additionally, be sure to drink copious amounts of water before, during, and after your workout.</string>
+    <string name="dataButt">History</string>
+    <string name="title_activity_open_data">OpenData</string>
+    
+    <string name="load">Load Records</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete Records</string>
+    <string name="recordHead">Records</string>
+    <string name="warning">WARNING: CLICKING DELETE WILL DELETE ALL RECORDS. CANNOT BE UNDONE</string>
+    
+	<string name="finish">Finish</string>
+	<string name="complete">complete</string>
+    <string name="activityFinish">Enter Numbers</string>
+    <string name="activityCompeleted">Enter #s</string>
+
+</resources>

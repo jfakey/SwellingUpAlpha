@@ -1,0 +1,24 @@
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/Main"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true" >
+        
+     
+     	<Button 
+     	    android:text="@string/restButton"
+     	    android:id="@+id/button1"
+     	    style="@style/button">
+     	</Button>
+     	
+ 		<ImageView
+ 		    android:id="@+id/ImageView01"
+ 		    android:layout_width="wrap_content"
+ 		    android:layout_height="wrap_content"
+ 		    android:contentDescription="@string/imageDesc">
+ 		</ImageView>
+		
+
+
+</LinearLayout>

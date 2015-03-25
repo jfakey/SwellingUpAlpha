@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jfakey.swellingup"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.jfakey.swellingup.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.WeekOne"
+            android:label="@string/title_activity_week_one" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.WeekTwo"
+            android:label="@string/title_activity_week_two" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.WeekThree"
+            android:label="@string/title_activity_week_three" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.WeekFour"
+            android:label="@string/title_activity_week_four" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.WeekFive"
+            android:label="@string/title_activity_week_five" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.WeekSix"
+            android:label="@string/title_activity_week_six" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.WeekSeven"
+            android:label="@string/title_activity_week_seven" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.WeekEight"
+            android:label="@string/title_activity_week_eight" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.WeekNine"
+            android:label="@string/title_activity_week_nine" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.WeekTen"
+            android:label="@string/title_activity_week_ten" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.WeekEleven"
+            android:label="@string/title_activity_week_eleven" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.WeekTwelve"
+            android:label="@string/title_activity_week_twelve" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.HelpButt"
+            android:label="@string/title_activity_help_butt" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.BuildChest"
+            android:label="@string/title_activity_build_chest" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.BuildLegs"
+            android:label="@string/title_activity_build_legs" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.BuildBack"
+            android:label="@string/title_activity_build_back" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.Core"
+            android:label="@string/title_activity_core" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.BuildShoulders"
+            android:label="@string/title_activity_build_shoulders" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.Rest"
+            android:label="@string/title_activity_rest" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.BulkChest"
+            android:label="@string/title_activity_bulk_chest" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.BulkLegs"
+            android:label="@string/title_activity_bulk_legs" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.BulkArms"
+            android:label="@string/title_activity_bulk_arms" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.BulkBack"
+            android:label="@string/title_activity_bulk_back" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.BulkShoulders"
+            android:label="@string/title_activity_bulk_shoulders" >
+        </activity>
+        <activity
+            android:name="com.jfakey.swellingup.OpenData"
+            android:label="@string/title_activity_open_data" >
+        </activity>
+    </application>
+
+</manifest>

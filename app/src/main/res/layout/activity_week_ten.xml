@@ -1,0 +1,82 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	    xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true" >
+        
+        
+<RelativeLayout 
+    style="@style/container"
+    tools:context="com.jfakey.swellingup.WeekTen" >
+
+
+
+    <TextView
+        android:id="@+id/w1Head"
+        style="@style/header"
+        android:text="@string/w10Head" />
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/button"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/w1Head"
+        android:layout_marginTop="24dp"
+        android:text="@string/d64"
+        android:onClick="day64Open" />
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/button"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/button1"
+        android:layout_marginTop="60dp"
+        android:text="@string/d65"
+        android:onClick="day65Open" />
+
+    <Button
+        android:id="@+id/button3"
+        style="@style/button"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/button2"
+        android:layout_marginTop="60dp"
+        android:text="@string/d66"
+        android:onClick="day66Open" />
+
+    <Button
+        android:id="@+id/button4"
+        style="@style/button"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/button1"
+        android:text="@string/d67"
+        android:onClick="day67Open" />
+
+    <Button
+        android:id="@+id/button5"
+        style="@style/button"
+        android:layout_alignBaseline="@+id/button2"
+        android:layout_alignBottom="@+id/button2"
+        android:layout_alignParentRight="true"
+        android:text="@string/d68"
+        android:onClick="day68Open" />
+
+    <Button
+        android:id="@+id/button6"
+        style="@style/button"
+        android:layout_alignBottom="@+id/button3"
+        android:layout_alignParentRight="true"
+        android:text="@string/d69"
+        android:onClick="day69Open" />
+
+    <Button
+        android:id="@+id/button7"
+        style="@style/button"
+        android:layout_below="@+id/button3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:text="@string/d70"
+        android:onClick="day70Open" />
+
+</RelativeLayout>
+</ScrollView>

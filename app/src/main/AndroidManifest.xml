@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jfakey.swellingup"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".WeekOne"
+            android:label="@string/title_activity_week_one" >
+        </activity>
+        <activity
+            android:name=".WeekTwo"
+            android:label="@string/title_activity_week_two" >
+        </activity>
+        <activity
+            android:name=".WeekThree"
+            android:label="@string/title_activity_week_three" >
+        </activity>
+        <activity
+            android:name=".WeekFour"
+            android:label="@string/title_activity_week_four" >
+        </activity>
+        <activity
+            android:name=".WeekFive"
+            android:label="@string/title_activity_week_five" >
+        </activity>
+        <activity
+            android:name=".WeekSix"
+            android:label="@string/title_activity_week_six" >
+        </activity>
+        <activity
+            android:name=".WeekSeven"
+            android:label="@string/title_activity_week_seven" >
+        </activity>
+        <activity
+            android:name=".WeekEight"
+            android:label="@string/title_activity_week_eight" >
+        </activity>
+        <activity
+            android:name=".WeekNine"
+            android:label="@string/title_activity_week_nine" >
+        </activity>
+        <activity
+            android:name=".WeekTen"
+            android:label="@string/title_activity_week_ten" >
+        </activity>
+        <activity
+            android:name=".WeekEleven"
+            android:label="@string/title_activity_week_eleven" >
+        </activity>
+        <activity
+            android:name=".WeekTwelve"
+            android:label="@string/title_activity_week_twelve" >
+        </activity>
+        <activity
+            android:name=".HelpButt"
+            android:label="@string/title_activity_help_butt" >
+        </activity>
+        <activity
+            android:name=".BuildChest"
+            android:label="@string/title_activity_build_chest" >
+        </activity>
+        <activity
+            android:name=".BuildLegs"
+            android:label="@string/title_activity_build_legs" >
+        </activity>
+        <activity
+            android:name=".BuildBack"
+            android:label="@string/title_activity_build_back" >
+        </activity>
+        <activity
+            android:name=".Core"
+            android:label="@string/title_activity_core" >
+        </activity>
+        <activity
+            android:name=".BuildShoulders"
+            android:label="@string/title_activity_build_shoulders" >
+        </activity>
+        <activity
+            android:name=".Rest"
+            android:label="@string/title_activity_rest" >
+        </activity>
+        <activity
+            android:name=".BulkChest"
+            android:label="@string/title_activity_bulk_chest" >
+        </activity>
+        <activity
+            android:name=".BulkLegs"
+            android:label="@string/title_activity_bulk_legs" >
+        </activity>
+        <activity
+            android:name=".BulkArms"
+            android:label="@string/title_activity_bulk_arms" >
+        </activity>
+        <activity
+            android:name=".BulkBack"
+            android:label="@string/title_activity_bulk_back" >
+        </activity>
+        <activity
+            android:name=".BulkShoulders"
+            android:label="@string/title_activity_bulk_shoulders" >
+        </activity>
+        <activity
+            android:name=".OpenData"
+            android:label="@string/title_activity_open_data" >
+        </activity>
+    </application>
+
+</manifest>
